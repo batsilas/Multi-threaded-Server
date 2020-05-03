@@ -1,3 +1,5 @@
+Simple multi-threaded key-value server
+
 kissdb
 ======
 
